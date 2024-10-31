@@ -1,0 +1,55 @@
+Address	Status-Code	Status-Text	Type	Size	Title	Date	Level	Links Out	Links In	Server	Error	Duration	Charset	Description
+file:///C:/D/Scrubbing/xenuu/New Text Document.txt	200	ok	text/plain	664		20.12.2022  08:23:38	0					00:00.000		
+https://www.orange-book.com/ja/c/search/result.html?category=&q=SKDT3512	200	ok	text/html	69015	SKDT3512の商品検索結果 - オレンジブック.Ｃｏｍ	22.03.2023  06:27:53	0	38		nginx		00:12.390	utf-8	
+https://www.orange-book.com/ja/c/search/result.html?category=&q=SKD-15EE	200	ok	text/html	69015	SKD-15EEの商品検索結果 - オレンジブック.Ｃｏｍ	22.03.2023  06:27:50	0	38		nginx		00:08.686	utf-8	
+https://www.orange-book.com/ja/c/search/result.html?category=&q=SKD-70	200	ok	text/html	69007	SKD-70の商品検索結果 - オレンジブック.Ｃｏｍ	22.03.2023  06:27:50	0	38		nginx		00:11.439	utf-8	
+https://www.orange-book.com/ja/c/search/result.html?category=&q=SKDHPM75	200	ok	text/html	69015	SKDHPM75の商品検索結果 - オレンジブック.Ｃｏｍ	22.03.2023  06:27:45	0	38		nginx		00:07.629	utf-8	
+https://www.orange-book.com/ja/c/search/result.html?category=&q=SKD-25-6	200	ok	text/html	69015	SKD-25-6の商品検索結果 - オレンジブック.Ｃｏｍ	22.03.2023  06:27:44	0	38		nginx		00:09.219	utf-8	
+https://www.orange-book.com/ja/c/search/result.html?category=&q=SKD-30EX	200	ok	text/html	69015	SKD-30EXの商品検索結果 - オレンジブック.Ｃｏｍ	22.03.2023  06:27:42	0	38		nginx		00:04.364	utf-8	
+https://www.orange-book.com/ja/c/search/result.html?category=&q=SKD-20EI	200	ok	text/html	69015	SKD-20EIの商品検索結果 - オレンジブック.Ｃｏｍ	22.03.2023  06:27:42	0	38		nginx		00:03.345	utf-8	
+https://www.orange-book.com/ja/c/search/result.html?category=&q=SKD-30-6	200	ok	text/html	69015	SKD-30-6の商品検索結果 - オレンジブック.Ｃｏｍ	22.03.2023  06:27:41	0	38		nginx		00:02.076	utf-8	
+https://www.orange-book.com/ja/c/search/result.html?category=&q=SKD-25EI	200	ok	text/html	69015	SKD-25EIの商品検索結果 - オレンジブック.Ｃｏｍ	22.03.2023  06:27:41	0	38		nginx		00:01.829	utf-8	
+https://www.orange-book.com/common/css/import.css	-2	skip external					1		9			00:00.000	utf-8	
+https://www.orange-book.com/common/css/print.css	-2	skip external					1		9			00:00.000	utf-8	
+https://www.orange-book.com/common/js/jquery-3.2.1.min.js	-2	skip external					1		9			00:00.000	utf-8	
+https://www.orange-book.com/common/js/jquery-ui.min.js	-2	skip external					1		9			00:00.000	utf-8	
+https://www.orange-book.com/common/js/slick.min.js	-2	skip external					1		9			00:00.000	utf-8	
+https://www.orange-book.com/common/js/datepicker-ja.js	-2	skip external					1		9			00:00.000	utf-8	
+https://www.orange-book.com/c/js/common.js	-2	skip external					1		9			00:00.000	utf-8	
+https://www.orange-book.com/c/js/common_c.js	-2	skip external					1		9			00:00.000	utf-8	
+https://www.orange-book.com/s/api/compareList.js	-2	skip external					1		9			00:00.000	utf-8	
+https://www.orange-book.com/sites/CookieServer?name=S_STUB_SEARCH_VIEW_TAG&secure=true&value=false&domain=www.orange-book.com&url=%2F	-2	skip external					1		9			00:00.000	utf-8	
+https://www.orange-book.com/c/img/chip.png	-2	skip external					1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/f/	-2	skip external					1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/c/index.html	-2	skip external			<span class="a-pictbtn-h__icon a-icon--home"></span>ホーム		1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/c/about/index.html	-2	skip external			<span class="a-pictbtn-h__icon a-icon--info"></span>オレンジブック.Comについて		1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/c/contact/index.html	-2	skip external			<span class="a-pictbtn-h__icon a-icon--inquiry"></span>お問い合わせ		1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/c/faq/index.html	-2	skip external			<span class="a-pictbtn-h__icon a-icon--faq"></span>よくあるご質問		1		9			00:00.000	utf-8	
+https://www.orange-book.com/common/ja/img/logo_header.png	-2	skip external			トラスコ オレンジブック.Com		1		9			00:00.000	utf-8	
+https://www.ai-orange-rescue.com/aiorangerescue/	-2	skip external			                               <span class="a-pictbtn__label">AIココミテ君<span class="a-pictbtn__label--fzs">と</span>商品<span class="a-pictbtn__label--fzs">を</span>探す</span>                           		1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/f/view/OB1110S01001.xhtml	-2	skip external			                                 <span class="a-icon--login a-pictbtn__icon"></span>                                 <span class="a-pictbtn__label">ログイン</span>                             		1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/c/product_info/recommend.html	-2	skip external			アウトレット商品		1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/c/campaign/index.html	-2	skip external			キャンペーン・おすすめ		1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/c/product_info/index.html	-2	skip external			新商品		1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/f/view/OB1170S01001.xhtml	-2	skip external			価格改定		1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/c/product_info/newmodel_discon.html	-2	skip external			モデルチェンジ・廃番		1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/c/naojiro.html	-2	skip external			修理工房 直治郎		1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/c/cocomite/index.html	-2	skip external			商品選択の基礎知識		1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/c/news/index.html	-2	skip external			お知らせ		1		9			00:00.000	utf-8	
+https://www.orange-book.com/s/gadget/suggest.js?categorySelectId=f-keyword-cat-select&inputId=f-keyword-input&siteId=ob&langCd=ja	-2	skip external					1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/c/search/index.html	-2	skip external			詳細条件検索		1		9			00:00.000	utf-8	
+https://www.orange-book.com/s/gadget/search.js?siteId=ob&langCd=ja&category=&q=SKD-25EI	-2	skip external					1		1			00:00.000	utf-8	
+https://js.rtoaster.jp/Rtoaster.js	-2	skip external					1		9			00:00.000	utf-8	
+http://www.trusco.co.jp/company/outline.html	-2	skip external			運営会社　トラスコ中山株式会社		1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/c/privacy/index.html	-2	skip external			個人情報の取扱いについて		1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/c/notice/index.html	-2	skip external			ご利用上の注意		1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/c/requirement/index.html	-2	skip external			動作確認環境		1		9			00:00.000	utf-8	
+https://www.orange-book.com/ja/c/sitemap/index.html	-2	skip external			サイトマップ		1		9			00:00.000	utf-8	
+https://www.orange-book.com/s/gadget/search.js?siteId=ob&langCd=ja&category=&q=SKD-30-6	-2	skip external					1		1			00:00.000	utf-8	
+https://www.orange-book.com/s/gadget/search.js?siteId=ob&langCd=ja&category=&q=SKD-20EI	-2	skip external					1		1			00:00.000	utf-8	
+https://www.orange-book.com/s/gadget/search.js?siteId=ob&langCd=ja&category=&q=SKD-30EX	-2	skip external					1		1			00:00.000	utf-8	
+https://www.orange-book.com/s/gadget/search.js?siteId=ob&langCd=ja&category=&q=SKD-25-6	-2	skip external					1		1			00:00.000	utf-8	
+https://www.orange-book.com/s/gadget/search.js?siteId=ob&langCd=ja&category=&q=SKDHPM75	-2	skip external					1		1			00:00.000	utf-8	
+https://www.orange-book.com/s/gadget/search.js?siteId=ob&langCd=ja&category=&q=SKD-15EE	-2	skip external					1		1			00:00.000	utf-8	
+https://www.orange-book.com/s/gadget/search.js?siteId=ob&langCd=ja&category=&q=SKD-70	-2	skip external					1		1			00:00.000	utf-8	
+https://www.orange-book.com/s/gadget/search.js?siteId=ob&langCd=ja&category=&q=SKDT3512	-2	skip external					1		1			00:00.000	utf-8	
